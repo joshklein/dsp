@@ -3,7 +3,7 @@
 [More Resources](lessons/more_resources)
 
 ### Foundational Tools
-* - [x] 0a. [Markdown](lessons/markdown) |
+* - [x] 0a. [Markdown](lessons/markdown)
 * - [x] 0b. [Fork GitHub Repo](lessons/git_fork)
 * - [x] 1a. [Install software on your computer](lessons/install)  
 * - [x] 1b. [Install Jupyter Notebook on your computer](lessons/install_jupyter)  
@@ -23,8 +23,8 @@
 * - [ ] HackerRank: Pandas Assessment
 
 ### Linear Algebra 
-* 6. [Linear Algebra](lessons/linear_algebra)
+* - [ ] 6. [Linear Algebra](lessons/linear_algebra)
 * - [ ] HackerRank: Linear Algebra Assessment
 
 ### Stats
-* 7. [Statistics](lessons/statistics)
+* - [ ] 7. [Statistics](lessons/statistics)
