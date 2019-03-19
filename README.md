@@ -18,7 +18,7 @@
 * - [x] HackerRank: Python Basics Assessment
 * - [x] HackerRank: Python Quick Quiz
 * 5b. [Advanced Python](lessons/python_advanced)  
-* - [ ] HackerRank: Python Advanced Assessment
+* - [x] HackerRank: Python Advanced Assessment
 * 5c. [Python Pandas](lessons/pandas_intro)  
 * - [ ] HackerRank: Pandas Assessment
 
