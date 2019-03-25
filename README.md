@@ -16,8 +16,8 @@ Exercise progress:
 - [x] HackerRank: Python Advanced Assessment
 - [x] 5c. [Python Pandas](lessons/pandas_intro)  
 - [x] HackerRank: Pandas Assessment
-- [ ] 6. [Linear Algebra](lessons/linear_algebra)
-- [ ] HackerRank: Linear Algebra Assessment
+- [x] 6. [Linear Algebra](lessons/linear_algebra)
+- [x] HackerRank: Linear Algebra Assessment
 - [ ] 7. [Statistics](lessons/statistics)
 
 [More Resources](lessons/more_resources)
