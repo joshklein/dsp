@@ -18,6 +18,6 @@ Exercise progress:
 - [x] HackerRank: Pandas Assessment
 - [x] 6. [Linear Algebra](lessons/linear_algebra)
 - [x] HackerRank: Linear Algebra Assessment
-- [ ] 7. [Statistics](lessons/statistics)
+- [x] 7. [Statistics](lessons/statistics)
 
 [More Resources](lessons/more_resources)
