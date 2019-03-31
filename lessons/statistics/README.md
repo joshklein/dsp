@@ -71,15 +71,14 @@ print(max_height-min_height) # about 34.2%
 
 ### Q5. Bayesian (Elvis Presley twin) 
 
-Bayes' Theorem is an important tool in understanding what we really know, given evidence of other information we have, in a quantitative way.  It helps incorporate conditional probabilities into our conclusions.
-
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+The probability is almost 30% (or 5/17.)
 
 ---
 
 ### Q6. Bayesian &amp; Frequentist Comparison  
-How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+In the frequentist approach to statistics, there is some "true" or "constant" value that experimental/sample data approximates. Outcomes are considered in a vacuum, without consideration for prior knowledge (like the base rate of some phenomena occurring).
+
+The Bayesian approach is that the probability is itself the "truth". We can leverage prior knowledge and the tools of conditional probability to make inferences, given existing information.
